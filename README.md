@@ -8,4 +8,6 @@
 - ✨ I have add two pard names :
 - ✨ MEGA2560_PRO for two Footprints without ICSP, one is with holes the ather without holes.
 - ✨ MEGA2560_PROICSP for two Footprints with ICSP, one is with holes the ather without holes.
+- ✨ and rename MICRO_MEGA2560 to MEGA2560_PROMINI.
+- ✨ I Think the Dimensions off the Pad layout are incorrect. this must be changed but i dont have this board 
 
